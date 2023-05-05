@@ -23,8 +23,6 @@ Pythonでは、簡単に右／左回転を実現出来ますので、それを�
 
 <img src="/_images/rotate1.png" width="96" alt="original matrix">
 
-![original matrix]()
-
 以下の行列にする。
 
 <img src="/_images/rotate2.png" width="96" alt="matrix rotated right">

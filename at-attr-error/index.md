@@ -51,7 +51,7 @@ AttributeError: 'NoneType' object has no attribute 'get'
 
 今回は HTML 上で Python に該当するプルダウンの値が `Python (3.8.2)` になっていることです。
 （正確には、AtCoder Tools が AtCoder の変更に追随していないことです）
-![image](/_images/1.png)
+![image](/_images/at-attr-error1.png)
 
 スタックトレースを一つずつ追ってみます。
 
