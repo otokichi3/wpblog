@@ -8,6 +8,7 @@ taxonomy:
     post_tag:
         - tech
 ---
+[mathjax]
 
 # まえがき
 
@@ -20,37 +21,21 @@ Pythonでは、簡単に右／左回転を実現出来ますので、それを�
 
 以下の行列を
 
-\begin{pmatrix}
-1 & 2 & 3 \\
-4 & 5 & 6 \\
-7 & 8 & 9
-\end{pmatrix}
+![original matrix](/_images/rotate1.png)
 
 以下の行列にする。
 
-\begin{pmatrix}
-7 & 4 & 1 \\
-8 & 5 & 2 \\
-9 & 6 & 3
-\end{pmatrix}
+![matrix rotated right](/_images/rotate2.png)
 
 次は左回転です。
 
 以下の行列を
 
-\begin{pmatrix}
-1 & 2 & 3 \\
-4 & 5 & 6 \\
-7 & 8 & 9
-\end{pmatrix}
+![original matrix](/_images/rotate1.png)
 
 以下の行列にする。
 
-\begin{pmatrix}
-3 & 6 & 9 \\
-2 & 5 & 8 \\
-1 & 4 & 7
-\end{pmatrix}
+![matrix rotated left](/_images/rotate3.png)
 
 回ってますね。
 
