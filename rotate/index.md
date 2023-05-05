@@ -1,6 +1,6 @@
 ---
 title: Pythonにおける行列の90度回転 for AtCoder
-post_status: draft # publish, draft, pending, future
+post_status: publish # publish, draft, pending, future
 taxonomy:
     category:
         - AtCoder
