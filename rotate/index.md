@@ -21,21 +21,21 @@ Pythonでは、簡単に右／左回転を実現出来ますので、それを�
 
 以下の行列を
 
-<img src="/_images/rotate1.png" width="96" alt="original matrix">
+<img src="https://otokichi3.blog/wp-content/uploads/2023/05/rotate1.png" width="96" alt="original matrix">
 
 以下の行列にする。
 
-<img src="/_images/rotate2.png" width="96" alt="matrix rotated right">
+<img src="https://otokichi3.blog/wp-content/uploads/2023/05/rotate2.png" width="96" alt="matrix rotated right">
 
 次は左回転です。
 
 以下の行列を
 
-<img src="/_images/rotate1.png" width="96" alt="original matrix">
+<img src="https://otokichi3.blog/wp-content/uploads/2023/05/rotate1.png" width="96" alt="original matrix">
 
 以下の行列にする。
 
-<img src="/_images/rotate3.png" width="96" alt="matrix rotated left">
+<img src="https://otokichi3.blog/wp-content/uploads/2023/05/rotate3.png" width="96" alt="matrix rotated left">
 
 回ってますね。
 
