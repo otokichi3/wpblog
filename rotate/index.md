@@ -21,21 +21,23 @@ Pythonでは、簡単に右／左回転を実現出来ますので、それを�
 
 以下の行列を
 
-![original matrix](/_images/rotate1.png)
+<img src="/_images/rotate1.png" width="96px" alt="original matrix">
+
+![original matrix]()
 
 以下の行列にする。
 
-![matrix rotated right](/_images/rotate2.png)
+<img src="/_images/rotate2.png" width="96px" alt="matrix rotated right">
 
 次は左回転です。
 
 以下の行列を
 
-![original matrix](/_images/rotate1.png)
+<img src="/_images/rotate1.png" width="96px" alt="original matrix">
 
 以下の行列にする。
 
-![matrix rotated left](/_images/rotate3.png)
+<img src="/_images/rotate3.png" width="96px" alt="matrix rotated left">
 
 回ってますね。
 
